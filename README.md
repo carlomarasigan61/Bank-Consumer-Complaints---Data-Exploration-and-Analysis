@@ -35,4 +35,8 @@ The goal is to:
 - Major issues: loan servicing, incorrect credit report info, aggressive debt collection  
 - **Top companies with complaints**: Bank of America, Experian, Wells Fargo  
 - **Most affected states**: California, Florida, Texas  
-- **20% of complaints disputed** by consumers  
+- **20% of complaints disputed** by consumers
+
+  --Analysis Dashboard
+  <img width="1168" height="771" alt="image" src="https://github.com/user-attachments/assets/7f341a46-252e-4282-b1dd-6cae9a3c41bb" />
+
