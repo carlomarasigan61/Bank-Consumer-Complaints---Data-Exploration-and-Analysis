@@ -2,7 +2,7 @@
 
 📊 **Comprehensive analysis of 65,499 banking customer complaints (2013–2015)**  
 Data sourced from [Kaggle](https://www.kaggle.com/) and analyzed using **Microsoft Excel (Pivot Tables)**.  
-
+Raw Data : https://github.com/carlomarasigan61/Bank-Consumer-Complaints---Data-Exploration-and-Analysis/blob/main/P9-ConsumerComplaints_raw.csv
 ---
 
 ## 🔍 Project Overview
